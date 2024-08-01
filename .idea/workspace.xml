@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36af6792-a98e-43a2-96ed-7194269e41f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../LibroJava1/LibroJava1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql-connector-java-8.0.28.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seg3/Seg3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clase1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seguimiento2" beforeDir="false" afterPath="$PROJECT_DIR$/../Seguimiento2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../clase1/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase1/clase1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase1/src/Semaforo/Semaforo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clase1/src/Semaforo/Semaforo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2jbSgZhlW4m1UR1cUme7GnKJ0YR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MainApplication.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "as",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Juliana/IdeaProjects/ProductosAppMVC",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Juliana\IdeaProjects\ProductosAppMVC\src\main\resources\imagen" />
+      <recent name="C:\Users\Juliana\IdeaProjects\ProductosAppMVC" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.productosappmvc.MainApplication" />
+      <module name="ProductosAppMVC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.productosappmvc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36af6792-a98e-43a2-96ed-7194269e41f5" name="Changes" comment="" />
+      <created>1721654397305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721654397305</updated>
+      <workItem from="1721654398517" duration="841000" />
+      <workItem from="1721655257605" duration="808000" />
+      <workItem from="1721656084549" duration="272000" />
+      <workItem from="1721923042166" duration="2740000" />
+      <workItem from="1721926447987" duration="212000" />
+      <workItem from="1721926671937" duration="783000" />
+      <workItem from="1722360586971" duration="44000" />
+      <workItem from="1722453734558" duration="1009000" />
+      <workItem from="1722521265140" duration="14000" />
+      <workItem from="1722526707369" duration="1417000" />
+      <workItem from="1722528922224" duration="259000" />
+      <workItem from="1722529542463" duration="1675000" />
+      <workItem from="1722531253736" duration="6000" />
+      <workItem from="1722531321011" duration="381000" />
+      <workItem from="1722531736118" duration="48000" />
+      <workItem from="1722531796500" duration="1689000" />
+      <workItem from="1722535289239" duration="30000" />
+      <workItem from="1722543284329" duration="4730000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
